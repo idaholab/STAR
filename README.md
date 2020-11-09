@@ -8,6 +8,10 @@ STAR is a script that creates a python run-time for automated response action in
 
 See the [STAR Innovation Sheet](20-50510_R2_STAR Innovation Sheet_06252020.pdf) for an overview.
 
+STAR was presented at BSides Idaho (https://www.bsidesidaho.org/) on October 23, 2020. A video recording     of the presentation is found below.
+
+[![STAR Video](/images/bsides.png)](https://www.youtube.com/watch?v=_qEseoPgdec)
+
 ## Installation
 Install system dependencies:
 `sudo apt install build-essential python3-venv curl libxml git tshark`
